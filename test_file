@@ -1,2 +1,7 @@
 This is the file tested on the new branch. Thanks for viewing
 This line was added via GitHub.
+total 16
+drwxrwxr-x 3 denis denis 4096 Feb 12 13:24 .
+drwxrwxr-x 9 denis denis 4096 Feb 12 13:07 ..
+drwxrwxr-x 8 denis denis 4096 Feb 12 13:25 .git
+-rwxrwxr-x 1 denis denis   94 Feb 12 13:24 test_file
